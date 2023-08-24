@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="53px" viewBox="0 0 59 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>samples_decor</title>
+    <g id="Reviews" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="18-Reviews" transform="translate(-573.000000, -2113.000000)" fill-rule="nonzero">
+            <g id="reviews" transform="translate(355.000000, 695.000000)">
+                <g id="paginator" transform="translate(217.000000, 1417.000000)">
+                    <g id="Icons-/-Arrow-Right" transform="translate(0.800000, 0.800000)">
+                        <g id="samples_decor" transform="translate(0.200000, 0.200000)">
+                            <polygon id="Base" fill="#FFFFFF" points="0 0 1 0 59 52 59 53 0 53"/>
+                            <path d="M1,0 L39,0 C50.045695,0 59,8.954305 59,20 L59,52 L59,52 L1,0 Z" id="Base-Copy-4" fill="#EFEFF3" transform="translate(30.000000, 26.000000) rotate(180.000000) translate(-30.000000, -26.000000) "/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
